@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:03/12/2024
+## Register Number:24002342
+## Name:SHA Harieenesh
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,21 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
+1.Gamification of Engagement Introduce a points-based system where alumni earn rewards for engaging with the platform.
+2.AI-Powered Networking Suggestions Use AI to recommend connections based on shared interests, industries, or locations.
+3.Crowdfunding Campaigns Allow alumni to start or contribute to specific fundraising campaigns (e.g., building a new library, student scholarships).
+4.Virtual Events and Webinars Host online events to connect alumni and students regardless of location.
+5.Alumni Spotlight and Blog Showcase inspiring stories of alumni achievements on the platform.
+6.Job Referral and Mentorship System Create a dedicated space for alumni to refer jobs or mentor students.
 
 ## Proposed Solution / Architecture Diagram
-
+![alt text](<Screenshot 2024-12-01 202928-1.png>)
 
 ## Use Cases
-
+![alt text](<Screenshot 2024-12-01 212617-1.png>)
 
 ## Technology Stack
-
+React.js Node.js Next.js PostgreSQL or MySQL MongoDB
 
 ## Dependencies
-
+Mapping service- 15 days Data collection-20 days budjet-rs.50,000
